@@ -1,0 +1,37 @@
+#background {
+	background-color: #C5D6D8;
+}
+#box {
+	height:300px;
+	width:1000px;
+	background-color: #364652;
+	margin-top:90px;
+	margin-left:175px;
+	border-style:solid;
+	border-width:5px;
+}
+#tittle {
+	font-family: 'Orbitron';
+	font-size: 60px;
+	margin-left: 380px;
+}
+#mom {
+	font-family: 'Orbitron';
+	font-size: 80px;
+	color: #99F7AB;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	background-color: #364652;
+	width: 650px;
+	height: 125px;
+	margin-top: 85px;
+	margin-left: 30px;
+}
+input[type=button] {
+	float: right;
+	background-color: #60695C;
+	color: white;
+	width: 150px;
+	height: 50px;
+	margin-right: 100px;
+	margin-top: 115px;
+}
